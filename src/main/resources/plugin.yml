@@ -1,0 +1,18 @@
+name: 2b2tPETC
+main: TimeC.Main
+version: "0.0.0.2.9.9.7"
+api: ["1.0.0"]
+
+load: POSTWORLD
+author: coke
+description: 2b2t PE's auto time command plugin.
+website: https://github.com/SumWum
+commands:
+  tc:
+    description: null
+    usage: "null"
+    permission: tc.command.tc
+permissions:
+  tc.command.tc:
+    description: "info"
+    default: true
